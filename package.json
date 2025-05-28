@@ -9,7 +9,7 @@
     "restart": "pm2 restart Manu-MD-V8"
   },
   "dependencies": {
-   "@whiskeysockets/baileys": "npm:manu-md",
+   "@whiskeysockets/baileys": "npm:manu-xmd",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@SumiFX/Scraper": "github:SumiFX/SumiFX-Scraper",
     "aptoide-scraper": "^1.0.1",
