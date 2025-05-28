@@ -70,7 +70,7 @@
     "raganork-bot": "^3.0.1",
     "youtubei.js": "^9.1.0",
      "file-type": "^16.5.3",
-     "jimp": "^0.22.12",
+     "jimp": "0.16.1",
      "adm-zip": "^0.5.16"
 
   }
