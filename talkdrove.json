@@ -1,0 +1,18 @@
+{
+    "bot-name": "MANU-MD-V8",
+    "description": "MANU-MD-V8 made for people on Sri Lanka & Other Countries...✨🇱🇰🌏❤",
+    "logo": "https://manul-official-new-api-site.vercel.app/manu-md",
+    "keywords": ["bot", "whatsapp", "automation", "manumd", "manul"],
+    "documentation-link": "https://manul-official-tech.vercel.app/",
+    "owner-verification":"manulofc555@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+  }
