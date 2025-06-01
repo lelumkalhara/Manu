@@ -20,7 +20,7 @@
 
 ## 🔗 Step 1: Get Your Pair or QR Code Using My Web
 
-<p align="center"> <a href="https://manu-md-bot-v8.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Use%20this%20Web-green?style=for-the-badge&logo=github" alt="Use this web"> </a> </p>
+<p align="center"> <a href="https://manu-md-new-public-web.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Use%20this%20Web-green?style=for-the-badge&logo=github" alt="Use this web"> </a> </p>
 
 ---
 
