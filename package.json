@@ -49,6 +49,7 @@
     "@mrnima/tiktok-downloader":"1.0.0",
     "@xaviabot/fb-downloader":"1.0.14",
     "mfiredlcore-vihangayt": "^1.0.0",
+    "@google/generative-ai":"0.24.1",
     "@bochilteam/scraper": "latest",
     "@sl-code-lords/si-subdl": "latest",
     "@sl-code-lords/esana-news": "latest",
